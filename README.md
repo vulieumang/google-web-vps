@@ -1,2 +1,2 @@
 # google-web-vps
-docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
+docker run -p 8080:80 dorowu/ubuntu-desktop-lxde-vnc
